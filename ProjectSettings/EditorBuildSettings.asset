@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/intro.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/wald.unity
+    guid: a1dbd6c8909a2c5478b6b491051d3c71
+  - enabled: 1
+    path: Assets/Scenes/Baumstamm.unity
+    guid: 54809a6cbbabebb4c8ca8259605a4de2
+  - enabled: 1
+    path: Assets/Scenes/kiefergebiet.unity
+    guid: e0aedd2685187184bb7c36c1ad25e4e7
+  - enabled: 1
+    path: Assets/Scenes/wald2022.unity
+    guid: 04aa9462400e19744a414c76714203f9
+  - enabled: 1
+    path: Assets/Scenes/wald sess1.unity
+    guid: 37ce3e70b1babc646bc54c64a4cd4446
+  - enabled: 1
+    path: Assets/Scenes/ameisengebiet.unity
+    guid: 39a8434fba90a7c48b4548080eb09603
+  - enabled: 1
+    path: Assets/Scenes/wald sess2.unity
+    guid: 09a4ac13da050194eafd9ba9453e17f4
+  - enabled: 1
+    path: Assets/Scenes/blumengebiet.unity
+    guid: 7606e307c575a534f83f3ca68b2d43a8
+  - enabled: 1
+    path: Assets/Scenes/steingebiet.unity
+    guid: 92f1bb3a6b8494140b24a568829c2810
+  m_configObjects: {}

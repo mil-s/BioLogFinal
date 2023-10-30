@@ -1,0 +1,58 @@
+Image Credits of all assets that are in active use in the current version of the game.
+
+Assets not described as "created for DIPF institute" are temporary and will be replaced with custom assets in the future.
+
+----------
+
+Ameisenlichtung:
+https://www.erlensee-aktuell.com/wp-content/uploads/2020/11/Weihnachtsbaum-Weg-5-660x880.jpg
+https://www.erlensee-aktuell.com/2020/11/27/auflugstipp-kennen-sie-den-weihnachtsbaum-im-wald/
+
+Baumgebiet:
+https://www.lfl.bayern.de/mam/cms07/iab/bilder/fittosize__186_0_5ed42d12c6046b0257e5cf3981c19a7d_quercus_robur_reife_frucht.jpg
+https://www.lfl.bayern.de/iab/kulturlandschaft/151477/index.php
+
+Blumengebiet & Blumengebiet 2:
+edited from:
+https://t3.ftcdn.net/jpg/02/36/42/36/360_F_236423605_Ol4HeVPPKUR03K1zMZhMS2ByQAsvF8QU.jpg
+https://stock.adobe.com/de/images/bunte-blumenwiese-im-sommer-mit-blick-von-oben-in-nahaufnahme/236423605
+https://media.istockphoto.com/id/518136160/de/foto/cosmos-bipinnatus.jpg?s=612x612&w=0&k=20&c=GRVyjJZwEEKkdQKmefAsa-AhhV-LxVwjb5QJlic3h3Q=
+https://www.istockphoto.com/de/fotos/blumenwiese-von-oben
+https://media.istockphoto.com/id/519914077/de/foto/bunte-blumen-wiese.jpg?s=612x612&w=0&k=20&c=MnUYx8hmnc0bdG8wWF_tdJl_opa5stHnzZ2qEFvt-Pg=
+
+Blumenwiese:
+edited from:
+https://www.nabu-rhein-erft.de/in-eigener-sache/#gsc.tab=0
+
+Boarfull and Boar:
+[this asset was meant to be temporary, however the source of the image has been lost]
+
+Cheapbg:
+edited from:
+https://www.istockphoto.com/de/foto/zauberhaften-m%C3%A4rchenwald-gm1082411378-290290205
+Forest Road bg asset package
+https://assetstore.unity.com/packages/2d/textures-materials/forest-road-background-146496
+
+Cheapforest, Cheaproad, City, Lichtungarea, and all derived assets:
+edited from:
+https://www.lilligreen.de/wp-content/uploads/2023/04/wald-von-oben-1200x675.jpg
+https://telnet.lew.de/media/11932/lewtelnet-zuverlaessiger-partner-kommunen.jpg?anchor=center&mode=crop&width=800&height=533&rnd=133376973425270000
+https://c7.alamy.com/compde/2g8d9kx/wald-mit-gruner-lichtung-von-oben-2g8d9kx.jpg
+https://media.istockphoto.com/id/1280157339/de/foto/luftaufnahme-des-gr%C3%BCnen-graswaldes-mit-hohen-pinien-und-blauem-bendy-fluss-der-durch-den-wald.jpg?s=612x612&w=is&k=20&c=bflvPnvtIAw2_ccuEU_YIuVN6iF3JZVW4qW1LXMEAnU=
+https://as2.ftcdn.net/v2/jpg/03/86/69/63/1000_F_386696387_JS9Zfli7cnRGQoahpelRzX9gHGWnuue3.jpg
+
+Cursor:
+https://pixabay.com/de/vectors/punkt-hand-mauszeiger-mac-klicken-306186/
+
+Pinus_Ponderosa_Branch_Cones:
+https://de.wikipedia.org/wiki/Gelb-Kiefer#/media/Datei:Pinus_ponderosa_branch_cones.jpg
+
+Stone Png 2 and all derived assets:
+https://www.pngall.com/de/stone-png/download/45346
+
+Waldboden:
+https://www.wald.de/media/2020/05/waldboden-1024x682.jpg
+
+----------
+
+Files from the folder "drawnassets" have been created by Vassili Papatokou and Amila Dusse for DIPF Institute.
